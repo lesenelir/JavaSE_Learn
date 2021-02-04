@@ -31,6 +31,9 @@ public class Demo06_Array {
         String[] SizesSecond = Arrays.copyOfRange(Sizes, 0, 3);  // Arrays.copyOf(原数组, 原数组长度) ===> 拷贝数组
         System.out.println(Arrays.toString(SizesSecond));
 
+        // 二维数组
+        int[][] ArrayInt = new int[3][2];
+        String[][] ArrayString = new String[3][];
 
     }
 }
