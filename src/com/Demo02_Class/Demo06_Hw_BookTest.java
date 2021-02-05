@@ -1,6 +1,6 @@
 package com.Demo02_Class;
 
-public class Class06_Hw_BookTest {
+public class Demo06_Hw_BookTest {
     public static void main(String[] args) {
         Books one = new Books("红楼梦", "曹雪芹","人民文学出版社", 8.8);
         Books two = new Books("小李飞刀", "古龙", "中国长安出版社", 55.5);
@@ -39,17 +39,17 @@ class Books {
         return name;
     }
 
-//    public void setName(String name) {
-//        this.name = name;
-//    }
+    public void setName(String name) {
+        this.name = name;
+    }
 
     public String getAuthor() {
         return author;
     }
 
-//    public void setAuthor(String author) {
-//        this.author = author;
-//    }
+    public void setAuthor(String author) {
+        this.author = author;
+    }
 
     public String getPublisher() {
         return publisher;
