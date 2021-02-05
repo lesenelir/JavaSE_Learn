@@ -34,7 +34,8 @@ public class Demo12_function {
     }
 
     public static void main(String[] args) {
-        // 创建对象，方法的使用要用对象去调用
+        // 创建对象，成员方法的使用要用对象去调用
+        // 【注意】如果方法是静态方法static，则需要使用使用类名.静态方法();如果静态方法定义在本类，则可以直接省去类名
         Demo12_function obj = new Demo12_function();
         System.out.println(obj.fac(10));
 
