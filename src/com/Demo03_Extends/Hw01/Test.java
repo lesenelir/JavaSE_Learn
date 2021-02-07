@@ -1,4 +1,4 @@
-package com.Demo03_Extends;
+package com.Demo03_Extends.Hw01;
 
 public class Test {
     public static void main(String[] args) {

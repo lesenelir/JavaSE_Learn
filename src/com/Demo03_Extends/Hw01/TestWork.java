@@ -1,4 +1,4 @@
-package com.Demo03_Extends;
+package com.Demo03_Extends.Hw01;
 
 // 测试工作类
 public class TestWork extends Work {
