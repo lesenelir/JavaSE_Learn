@@ -3,6 +3,8 @@ package com.Demo06_Exception;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+// throws 用来声明异常类型
+
 public class ThrowsDemo02 {
     public static void main(String[] args) {
         /*
