@@ -28,7 +28,7 @@ public class WrapperTest01 {
         System.out.println(t4);
         System.out.println(t5);
 
-        double t6 = t2.doubleValue();  // 【拆箱多用于转换成不同的数据类型的表示】
+        double t6 = t2.doubleValue();  // 【手动拆箱调用xxxValue()多用于转换成不同的数据类型的表示】
         System.out.println(t6);
 
 
