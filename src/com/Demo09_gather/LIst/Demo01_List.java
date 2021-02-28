@@ -5,6 +5,11 @@ import java.util.List;
 
 public class Demo01_List {
     public static void main(String[] args) {
+
+        // List是元素有序并且可以重复的序列，成为序列
+        // ArrayList底层是由数组实现的，它的长度不是固定的，可以动态增加或减少
+
+
         List list = new ArrayList();
         list.add("java");
         list.add("C++");
