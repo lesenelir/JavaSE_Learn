@@ -15,3 +15,9 @@
     
     
 > new出来的对象都是存放在堆内存当中的
+>
+
+
+### String类和StringBuilder
+    String类和StringBuilder的区别是：String具有不可变性，StringBuilder不具备
+    【注】：当频繁操作字符串的时候，可以使用StringBuilder类
