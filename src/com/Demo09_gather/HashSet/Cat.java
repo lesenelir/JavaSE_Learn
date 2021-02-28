@@ -1,4 +1,4 @@
-package com.Demo09_gather.LIst.HashSet;
+package com.Demo09_gather.HashSet;
 
 public class Cat {
     private String name;

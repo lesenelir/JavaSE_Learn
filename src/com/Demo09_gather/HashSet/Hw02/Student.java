@@ -1,4 +1,4 @@
-package com.Demo09_gather.LIst.Hw02;
+package com.Demo09_gather.HashSet.Hw02;
 
 import java.util.Objects;
 
