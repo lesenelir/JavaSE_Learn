@@ -8,6 +8,7 @@ public class Demo02_Set {
     public static void main(String[] args) {
         // Set 是元素无序，并且不可重复的集合，被称为集
         // HashSet是Set的重要实现类，称为哈希集，HashSet元素无序，并且不可重复
+        // 要显示HashSet的内容是要使用Iterator迭代器
 
         Set set = new HashSet();
         set.add("red");
