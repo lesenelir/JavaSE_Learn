@@ -40,7 +40,7 @@ public class GoodsTest {
 
         // 3.显示数据
         System.out.println("遍历输出商品的全部信息：");
-        Iterator<Goods> itGoods = goodsMap.values().iterator();
+        Iterator<Goods> itGoods = goodsMap.values().iterator();    // 迭代器后面跟泛型，表示迭代器内存储的都是Goods对象的内容
         while (itGoods.hasNext()) {
             System.out.println(itGoods.next());
         }
