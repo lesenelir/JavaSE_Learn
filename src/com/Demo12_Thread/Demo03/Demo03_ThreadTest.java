@@ -17,6 +17,9 @@ public class Demo03_ThreadTest {
     }
 }
 
+/*
+*   声明实现Runnable接口的类 -> 在实现类内实现run方法 -> 创建实现类的对象 -> 通过实现类的对象创建线程类的对象 -> 调用start方法启动线程
+* */
 
 class PrintRunnable implements Runnable {
 
