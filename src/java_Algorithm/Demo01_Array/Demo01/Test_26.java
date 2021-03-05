@@ -1,6 +1,6 @@
 package java_Algorithm.Demo01_Array.Demo01;
 
-public class Test {
+public class Test_26 {
     // 26. 删除排序数组中的重复项
 
     // 从数组的下标开始往后比对

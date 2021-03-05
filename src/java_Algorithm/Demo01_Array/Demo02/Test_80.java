@@ -1,6 +1,6 @@
 package java_Algorithm.Demo01_Array.Demo02;
 
-public class Test {
+public class Test_80 {
     // 80. 删除排序数组中的重复项 II
 
     public static int removeDuplicate(int[] nums) {
