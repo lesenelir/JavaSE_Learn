@@ -1,4 +1,4 @@
-package java_Algorithm.Demo01_Array.Demo01;
+package java_Algorithm.Demo01_Array.Demo01_26;
 
 public class Test_26 {
     // 26. 删除排序数组中的重复项
